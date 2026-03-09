@@ -1,5 +1,9 @@
 # Debajyoti-Das
-![7ad0c9b192167fbeac6f53ff97a656df](https://github.com/user-attachments/assets/c55649f5-bdfa-408a-a588-c7bf56cf716e)
+
+
+
+https://github.com/user-attachments/assets/16fe4e40-ca32-4af6-abf4-69711c262167
+
 
 
 My name is <b>Debajyoti Das</b>. An undergraduate CSE student from Bangladesh. I love solving problems. Enthusiastic about new technologies. Currently working in Machine Learning and Software Development. In future, willing to work in Deep Learning, LLMs and many more things... C++, C, Python, Java are my preferred Language. Love to implement Data Structures and Algorithms. Enthusiastic about web backends and APIs. 
